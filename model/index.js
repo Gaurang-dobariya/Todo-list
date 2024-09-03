@@ -1,0 +1,1 @@
+module.exports.listSchema = require("./list.model")
